@@ -17,7 +17,7 @@
 
 | Project | What it shows |
 |---|---|
-| [playwright-ecommerce-tests](https://github.com/NarmadaSewwandi/playwright-ecommerce-tests) | UI automation of an online store: login, cart, checkout and order totals. Page Object Model, 3 browsers, CI in GitHub Actions |
+| [playwright-ecommerce-tests](https://github.com/NarmadaSewwandi/playwright-ecommerce-tests) | UI automation of an online store: login, cart, checkout and order totals. Page Object Model,Chrome & Firefox, CI in GitHub Actions |
 | [api-booking-tests](https://github.com/NarmadaSewwandi/api-booking-tests) | REST API testing of a hotel booking service: auth, full CRUD lifecycle, security and negative cases |
 
 ### 🧪 What I focus on
